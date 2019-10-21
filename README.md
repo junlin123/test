@@ -23,7 +23,7 @@ $masterSecret = 'your-master-secret';
 $alert = 'Hi JPush!';
 $extras = [
     'type' => 1,
-    'url' => 'http://www.mayanlong.com'
+    'url' => 'http://www.junlin.com'
 ];
 $platform = ['android', 'ios'];
 $audience = [

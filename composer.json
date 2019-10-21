@@ -3,12 +3,12 @@
     "description": "Third party message push",
     "authors": [
         {
-            "name": "junlin gan"
+            "name": "junlin"
         }
     ],
     "license": "MIT",
     "require": {
-        "php": ">=5.3"
+        "php": ">=5.4"
     },
     "autoload": {
         "psr-4": {

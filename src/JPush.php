@@ -1,6 +1,6 @@
 <?php
 
-namespace YanlongMa\Push;
+namespace Junlin\Push;
 
 /**
  * JPush
