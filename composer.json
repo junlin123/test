@@ -1,9 +1,9 @@
 {
-    "name": "yanlongma/push_dev_push",
+    "name": "ganjunlin/push_dev_push",
     "description": "Third party message push",
     "authors": [
         {
-            "name": "Yanlong Ma"
+            "name": "junlin gan"
         }
     ],
     "license": "MIT",
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "YanlongMa\\Push\\": "src/"
+            "GanJunLin\\Push\\": "src/"
         }
     }
 }
